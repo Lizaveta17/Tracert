@@ -1,1 +1,1 @@
-# Tracert
+Запуск: py as.py
